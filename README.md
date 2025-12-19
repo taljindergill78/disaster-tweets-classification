@@ -27,7 +27,8 @@ The challenge lies in the informal nature of tweets, short text length, noisy la
 2. Download the dataset from:  
    👉 https://www.kaggle.com/competitions/nlp-getting-started/data  
 3. Place the files in the following structure:
-```data/
+```
+data/
 ├── train.csv
 └── test.csv
 ```
